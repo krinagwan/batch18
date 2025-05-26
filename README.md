@@ -1,4 +1,3 @@
-# batch18
-devopska batch18
-mera naam karishan hai.
-hamari class ka naam devops hai
+# Devops implementation
+devops Engg
+I am Krishan .
